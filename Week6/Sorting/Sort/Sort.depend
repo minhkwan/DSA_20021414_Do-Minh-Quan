@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584205420 source:d:\dsa\week6\sorting\sort\main.cpp
+	<iostream>
+
+1634354371 source:d:\dsa\week6\sorting\sort\selectionsort.cpp
+	<iostream>
+
