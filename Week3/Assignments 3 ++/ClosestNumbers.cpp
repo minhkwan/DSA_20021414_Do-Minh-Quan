@@ -14,7 +14,7 @@ vector<string> split(const string &);
  */
 
 vector<int> closestNumbers(vector<int> arr) {
-        vector<int>  result;
+    vector<int>  result;
     sort(arr.begin(), arr.end());
     int diff = abs(arr[1] - arr[0]);
     for(int i = 2; i < arr.size(); i++){
