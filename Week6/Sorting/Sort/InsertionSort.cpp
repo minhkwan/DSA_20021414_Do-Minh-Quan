@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 void InsertionSort(int a[], int n) {
-    for(int i = 1; i < n; i++){
+    for(int i = 1; i < n ; i++){
         int key = a[i];
         int j = i - 1;
         while(j >= 0 && a[j] > key){
